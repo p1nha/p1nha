@@ -2,7 +2,7 @@
 
 I'm a Software Developer currently studying in 42 Madrid.
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=p1nha&layout=compact&theme=tokyonight
+![]https://github-readme-stats.vercel.app/api/top-langs/?username=p1nha&layout=compact&theme=tokyonight
 <!--
 **p1nha/p1nha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
