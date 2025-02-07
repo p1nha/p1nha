@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Software Developer currently studying in 42 Madrid.
+
 <!--
 **p1nha/p1nha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
